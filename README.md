@@ -1,2 +1,3 @@
-# Sentiment towards health tracking
-A case study of NHS covid-19 app
+# Evolution of the UK public’s response to COVID-19 app
+A study of the sentiment and uptake towards the app and their relationship to epidemiological parameters
+
